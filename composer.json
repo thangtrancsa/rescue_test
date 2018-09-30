@@ -1,0 +1,6 @@
+{
+  "require": {
+    "mpdf/mpdf": "^6.1",
+    "calcinai/xero-php": "1.5.*"
+  }
+}
